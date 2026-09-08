@@ -1,0 +1,31 @@
+Food,Burger,Non-Vegetarian,8.99,500
+Food,Cheeseburger,Non-Vegetarian,9.49,550
+Food,Chicken Wrap,Non-Vegetarian,7.99,400
+Food,Grilled Chicken,Non-Vegetarian,10.99,600
+Food,Pasta Alfredo,Vegetarian,9.99,650
+Food,Margherita Pizza,Vegetarian,11.50,700
+Food,Pepperoni Pizza,Non-Vegetarian,12.50,800
+Food,Salad,Vegetarian,6.50,200
+Food,Caesar Salad,Non-Vegetarian,7.50,300
+Food,Veggie Bowl,Vegetarian,8.50,350
+Food,French Fries,Vegetarian,3.99,300
+Food,Onion Rings,Vegetarian,4.50,320
+Food,Steak,Non-Vegetarian,15.99,900
+Food,Grilled Salmon,Non-Vegetarian,14.99,700
+Food,Soup,Vegetarian,5.50,250
+
+Drink,Cola,Beverage,2.50,Medium
+Drink,Pepsi,Beverage,2.50,Medium
+Drink,Water,Beverage,1.50,Small
+Drink,Orange Juice,Beverage,3.00,Large
+Drink,Apple Juice,Beverage,3.00,Large
+Drink,Lemonade,Beverage,2.75,Medium
+Drink,Iced Tea,Beverage,2.75,Medium
+Drink,Coffee,Beverage,2.00,Small
+Drink,Cappuccino,Beverage,3.50,Medium
+Drink,Latte,Beverage,3.75,Medium
+Drink,Milkshake,Beverage,4.50,Large
+Drink,Smoothie,Beverage,4.75,Large
+Drink,Hot Chocolate,Beverage,3.25,Medium
+Drink,Energy Drink,Beverage,3.99,Medium
+Drink,Green Tea,Beverage,2.25,Small
